@@ -1,7 +1,7 @@
-## Masters-Degree-in-Artificial-Intelligence-Engineering-Month-1
+# Masters-Degree-in-Artificial-Intelligence-Engineering-Month-1
 Preparation Repo for Incoming Masters Degree
 
-# Python and Programming Basics
+### Python and Programming Basics
 Goal:
 - Stop Thinking of programming as a barrier
 
