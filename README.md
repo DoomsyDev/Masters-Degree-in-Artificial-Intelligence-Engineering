@@ -14,19 +14,19 @@ Stop thinking of programming as a barrier and become comfortable writing Python 
 
 ## Topics
 
-* [ ] Variables and data types
-* [ ] `if / elif / else`
-* [ ] `for` and `while` loops
-* [ ] Functions
-* [ ] Lists, sets, tuples, and dictionaries
-* [ ] List comprehensions
-* [ ] Classes and objects
-* [ ] Exception handling
-* [ ] File reading and writing
-* [ ] Modules and packages
-* [ ] Virtual environments
-* [ ] Git & GitHub
-* [ ] Jupyter Notebooks
+* [X] Variables and data types
+* [X] `if / elif / else`
+* [X] `for` and `while` loops
+* [X] Functions
+* [X] Lists, sets, tuples, and dictionaries
+* [X] List comprehensions
+* [X] Classes and objects
+* [X] Exception handling
+* [X] File reading and writings
+* [X] Modules and packages
+* [X] Virtual environments
+* [X] Git & GitHub
+* [X] Jupyter Notebooks
 
 ## Practice
 
