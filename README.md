@@ -32,9 +32,9 @@ Stop thinking of programming as a barrier and become comfortable writing Python 
 
 Build small programs:
 
-* [ ] Calculator
-* [ ] Currency converter
-* [ ] Number guessing game
+* [X] Calculator
+* [X] Currency converter
+* [X] Number guessing game
 * [ ] CSV file analyzer
 * [ ] Simple task management system
 
