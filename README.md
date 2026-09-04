@@ -35,7 +35,7 @@ Build small programs:
 * [X] Calculator
 * [X] Currency converter
 * [X] Number guessing game
-* [ ] CSV file analyzer
+* [X] CSV file analyzer
 * [ ] Simple task management system
 
 Then start working with:
